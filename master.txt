@@ -1,6 +1,6 @@
 Initial commit on master
 Second commit on master
 Creating a new branch is quick and simple.
-Change Fast forward to no tt .
+Change Fast forward ddfefdc .
 this git property is a test
 
